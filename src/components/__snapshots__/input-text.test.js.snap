@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InputText Component Should render the right way 1`] = `
+<div
+  className="form-group"
+>
+  <label>
+    keywords
+    :
+  </label>
+  <input
+    className="form-control"
+    onChange={[Function]}
+    type="text"
+    value="this is some keyword"
+  />
+</div>
+`;
